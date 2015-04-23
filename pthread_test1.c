@@ -1,4 +1,4 @@
-/*********** 
+/************** 
 * Filename: thread_test.c
  * Title: Creating/terminating threads(1)
  * Desc: 쓰레드 생성 제거 예제
