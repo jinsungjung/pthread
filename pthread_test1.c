@@ -14,7 +14,7 @@ void* Thread( void *arg )
 {
     int i;
     for ( i=0; i<30; i++ )
-        printf( "new my thread %d: %dth iteration!!!\n", *(int*)arg, i );
+        printf( "new22 my thread %d: %dth iteration!!!\n", *(int*)arg, i );
     pthread_exit(0);  /* 쓰레드 종료 함수 */
 }
 //-------------------------------------------------------------
